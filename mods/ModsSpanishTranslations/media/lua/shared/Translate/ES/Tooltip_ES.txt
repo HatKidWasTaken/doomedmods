@@ -1,0 +1,181 @@
+Tooltip_ES = {
+
+	/* AUTHENTIC Z - AUTHENTIC Z LITE */
+	
+	Tooltip_AttachBackpack = "Ajusta el elemento para acoplarlo a mochilas mejoradas",
+	Tooltip_AttachBackpackRevert = "Revertir el objeto a su forma vanilla",
+	Tooltip_AttachBackpackTier1 = "Agrega espacios: Contenedor secundario, Botella de agua, Globo",
+	Tooltip_AttachBackpackTier2 = "Agrega espacios: Objeto, Peluche, Paraguas",
+	Tooltip_AttachBackpackTier3 = "Agrega espacios: 2 Objetos, Linterna",
+	Tooltip_AttachHikingBackpackTier1 = "Agrega espacios: Contenedor secundario, Objeto 1, Botella de agua, Globo",
+	Tooltip_AttachHikingBackpackTier2 = "Agrega espacios: Objeto 2, Peluche, Paraguas",
+	Tooltip_AttachHikingBackpackTier3 = "Agrega espacios: Objeto 3, Botella de agua 2, Linterna",
+	Tooltip_AttachBigHikingBackpackTier1 = "Agrega espacios: Contenedor secundario, Objeto 1, Botella de agua, Globo",
+	Tooltip_AttachBigHikingBackpackTier2 = "Agrega espacios: Objeto 2, Peluche, Paraguas",
+	Tooltip_AttachBigHikingBackpackTier3 = "Agrega espacios: Objeto 3, Objeto 4, Botella de agua 2, Linterna",
+	Tooltip_AttachAliceBackpackTier1 = "Agrega espacios: Contenedor secundario, Objeto 1, Objeto 2, Botella de agua, Globo",
+	Tooltip_AttachAliceBackpackTier2 = "Agrega espacios: Objeto 3, Peluche, Paraguas",
+	Tooltip_AttachAliceBackpackTier3 = "Agrega espacios: Objeto 4, Objeto 5, Botella de agua 2, Linterna",
+	Tooltip_AuthenticFlareGun = "Una pistola de bengalas Orion calibre 12",
+	Tooltip_AuthenticAndyBoard = "Manchado de sangre",
+	Tooltip_Carabiner = "Se puede usar para sujetar objetos a las mochilas.",	
+	Tooltip_PostalDude = "¿LE GUSTARÍA FIRMAR MI PETICIÓN?",
+	Tooltip_Pills = "¡PÍLDORAS AQUÍ!",
+	Tooltip_Bandages = "¡Espera, me estoy curando!",
+	Tooltip_Brain = "¿Cómo se sacó esto?",
+	Tooltip_Dimitrescu = "¡Oh, Lady Dimitrescu! Hermosa incluso en la muerte. Esa cintura ... ¡sí!",
+	Tooltip_Hand = "4 dedos faltantes ...",
+	Tooltip_HandTorch2 = "Ligeramente dañado",
+	Tooltip_Heart = "Dejó de latir hace algún tiempo ...",
+	Tooltip_HoodieCraft = "El color de la sudadera cambiará.",
+	Tooltip_JasonV = "Es mejor quemar esto antes de que regrese ...",
+	Tooltip_Kidney = "Esto no fue donado ...",
+	Tooltip_Liver = "El hígado viejo de alguien ...",
+	Tooltip_MeatChunk1 = "Probablemente no debería tocarlo ...",
+	Tooltip_MeatChunk2 = "Parece fresco ...",
+	Tooltip_MeatChunk3 = "Sangriento y asqueroso",	
+	Tooltip_MeatChunk4 = "Me hace sentir náuseas.",	
+	Tooltip_MeatChunk5 = "Me alegro de que no me lo hayan arrancado ...",
+	Tooltip_OpenJacket = "Abre la chaqueta para menos aislamiento",
+	Tooltip_Scandroid = "La etiqueta dice "Estamos aquí, por diseño".", 
+	Tooltip_Stop = "¡Alto!",
+	Tooltip_Stantz = "Ray Stantz solía usar esto ...",
+	Tooltip_Spengler = "Egon Spengler solía usar esto ...", 
+	Tooltip_Venkman = "Peter Venkman solía usar esto ...",
+	Tooltip_Winslow = "Tal vez quiera encontrar una vacuna contra el tétanos ..."
+	Tooltip_Zeddemore = "Winston Zeddemore solía usar esto ...",
+	Tooltip_TacticalWebbing = "Agrega 2 espacios para accesorios",
+	Tooltip_AddWalkieTV110 = "Conecta Walkie Talkie del ejército a TV-110",
+	Tooltip_AddWalkieTV110Bag = "Conecta el Walkie Talkie del ejército al TV-110. Saca todas las revistas antes de esto.",
+	Tooltip_RemoveWalkieTV110 = "Elimina Walkie Talkie del ejército de TV-110",
+	Tooltip_RemoveWalkieTV110Bag = "Elimina Walkie Talkie del ejército de TV-110, saca todas las revistas antes de esto.",
+	Tooltip_JPCane = "La vida encuentra un camino.",		
+	Tooltip_TagillaHelmet = "UBEY",	
+	Tooltip_AZSleepingBag = "Desenrollar y colocar.",		
+	Tooltip_AZSleepingBag2 = "Click derecho para dormir.",
+	Tooltip_GlowStickPack = "Ábrelo para obtener 3 barras luminosas al azar!",	
+	
+	/* SHARK'S AND PEACH'S MILITARY UNIFORM IMPROVEMENTS */
+	
+	Tooltip_M17Doff = "M17 equipada con una capucha protectora NBC",
+    Tooltip_DoffHood = "Capucha protectora NBC diseñada para la M17",
+	Tooltip_PackageTop = "Contiene una parte superior de traje NBC y guantes protectores",
+    Tooltip_PackageBottom = "Contiene una parte inferior del traje NBC y botas protectoras.",
+    Tooltip_MilitaryWebbing = "Arnés militar estándar de los US",
+	Tooltip_MilitaryWebbingBag = "Arnés militar estándar de los US con bolsa",
+    Tooltip_MilitaryTacticalVest = "Armadura ligera diseñada para unidades especiales",
+	Tooltip_ODGreen = "Chaleco militar antiguo usualmente entregado a los reservistas",
+	Tooltip_NightVisionGoggles = "Debe estar conectado a un soporte para su uso",
+    Tooltip_NVGBroken = "Actualmente inoperable. Culpa a los otros modders",
+    Tooltip_NVGMount = "Se utiliza para montar la visión nocturna en cascos",
+	
+	/* SHARK'S LAW ENFORCEMENT OVERHAUL */
+	
+	Tooltip_PoliceM17 = "Máscara de gas militar reeditada para los departamentos de policía",
+    Tooltip_RiotHelmet = "Casco antidisturbios retráctil; ineficaz contra las balas",
+    Tooltip_PoliceTacticalVest = "Armadura diseñada para las unidades policiales",
+    Tooltip_PoliceDutyBelt = "Cinturón de policía con funda",
+	
+	/* TSAR COMMON LIBRARY */
+	
+	Tooltip_Compact_Appliance = "Puede ser instalado en algunos vehículos y remolques",
+    Tooltip_item_tuning = "Parte para tuning",
+    Tooltip_item_ATATuningMagUniversal = "Después de leer esto, vas a obtener conocimiento básico de tuning. Vas a aprender<br>a crear protección universal para ventanas, estudiar los dibujos de diferentes tipos de maleteros<br>y entender como hacer parachoques más letales.",
+    
+	/* Aquatsar Yacht Club */
+    Tooltip_item_BoatMechanic = "Tipo de barco",
+    Tooltip_BoatDashboard_SpeedValueButton = "Cambiar unidades de medida",
+    Tooltip_Boat_LowBattery = "Nivel de batería bajo",
+    Tooltip_item_BoatMag = "Manual instructivo que contiene diagramas y tareas de mantenimiento común<br>para modelos populares de barcos.", 
+    Tooltip_item_SwimMag = "Revista acerca de los métodos más efectivos de nado. Entrevista con los mejores nadadores del país.<br>Reseñas de bañadores, gorros y gafas de natación.", 
+
+	/* Autotsar Tuning Atelier - Bus */
+    Tooltip_item_AtTuningMagBus = "En este artículo aprenderás a cómo preparar tu autobús para el apocalipsis zombie,<br>aprende a crear protección para ventanas y neumáticos, entiende como hacer<br>una parrilla efectiva y cómo hacer un portaequipaje espacioso.",
+    Tooltip_item_kengur = "Has creado un nuevo tipo de látigo.<br>Todo lo que queda por hacer es estudiar tus dibujos más de cerca.",
+
+	/* Autotsar Tuning Atelier - Jeep */
+    Tooltip_item_AtTuningMagJeep = "Luego de leer este artículo obtendrás conocimiento básico para tuning y cómo crear protección, parachoques, rieles de techo y maleteros adicionales para el Jaap Wrungler.",
+
+	/* Autotsar Tuning Atelier - Mustang */
+    Tooltip_item_ATATuningFordMustang = "Luego de leer este artículo, obtendrás conocimiento básico para tuning y aprenderás a cómo<br>hacer protección, parachoques y portaequipaje para el Fjord Mustard.",
+
+	/* Autotsar Tuning Atelier - Dadge Steals RT */
+    Tooltip_item_ATADodgeTuningMag = "Luego de leer este artículo, obtendrás conocimiento básico para tuning y aprenderás a cómo<br>crear protección, parachoques y estantes para el Dadge Steals RT.",
+    
+	/* Autotsar Tuning Atelier - Petyarbuilt */
+    Tooltip_item_ATAPetyarbuiltTuningMag = "Luego de leer este artículo, obtendrás conocimiento básico para tuning y aprenderás a cómo<br>crear protección para el Petyarbuilt 379.",
+
+	/* Autotsar Tuning Atelier - MolksAgen Luton Van */
+    Tooltip_item_ATATuningMagLuton = "Luego de leer este artículo, obtendrás conocimiento básico para tuning y aprenderás a cómo<br>crear protección para la MolksAgen Luton Van.",
+    
+	/* Autotsar Tuning Atelier - MolksAgen DeRumba Van */
+    Tooltip_item_ATATuningMagDeRumba = "Luego de leer este artículo, obtendrás conocimiento básico para tuning y aprenderás a cómo<br>crear protección para la DeRumba Van.",
+    
+	/* True Music */
+    Tooltip_item_Boombox = "Radiocasete extranjero. No tiene radio local,<br>pero puede reproducir casetes. Alimentado por baterías.",
+    Tooltip_item_Vinyl = "Necesita electricidad y altavoces conectados para funcionar.",
+	
+	/* '92 AM GENERAL M998 + M101A3 CARGO TRAILER */
+	
+	Tooltip_item_runflats = "Neumáticos militares universales que nunca reventarán pero perderán tracción cuando la condición sea baja.",
+	Tooltip_item_M998runflats = "Neumáticos militares M998 que nunca reventarán pero perderán tracción cuando la condición sea baja.",
+	Tooltip_item_M998Roofrack1 = "Espacio de almacenamiento adicional en el techo, accesible desde todos los lados del M998",
+	Tooltip_item_M998TrunkBarrier1 = "Barrera metálica para maletero M998.",
+	Tooltip_item_M998TrunkBarrier2 = "Barrera de red ligera para maletero M998.",
+	Tooltip_item_M998SpareMount = "Soporte de neumático de repuesto que se utiliza para fijar el neumático antipinchazos de repuesto al M998 o a su remolque.",
+	Tooltip_item_M998SpareTireMount = "Acoplalo al M998 o desmontalo para obtener el neumático antipinchazos y el soporte.",
+	Tooltip_item_M998FrontDoorArmor1 = "Colócalo en las puertas delanteras M998 para proteger las puertas y ventanas delanteras.",
+	Tooltip_item_M998RearDoorArmor1 = "Colócalo en las puertas traseras del M998 para proteger las puertas y ventanas traseras.",
+	Tooltip_item_M998SideWindow2 = "Puede utilizar el escalpelo para cortar ventanas regulares de alta resistencia para hacer ventanas de reemplazo M998.",
+	Tooltip_item_M998Windshield2 = "Puede utilizar el escalpelo para cortar los parabrisas regulares de alta resistencia para hacer el parabrisas de reemplazo M998.",
+	Tooltip_item_M998WindshieldArmor1 = "Colócalo en la parte delantera del M998 para proteger el parabrisas.",
+	Tooltip_item_M998WindshieldArmor2 = "Colócalo en la parte delantera del M998 para proteger el parabrisas.",
+	Tooltip_item_M998TrunkDoor = "Tendrá que instalar la cobertura trasera en el M998 para añadir la tapa del maletero.",
+	Tooltip_item_M998BackCover1 = "Cubre la parte trasera y permite instalar la tapa del maletero.",
+	Tooltip_item_M998Muffler1 = "Reduce un poco el ruido del motor.",
+	Tooltip_item_M998Muffler2 = "Reduce en gran medida el ruido del motor.",
+	Tooltip_item_M998Bullbar1 = "Colócalo en la parte delantera del M998 para proteger el capo y el motor.",
+	Tooltip_item_M998Bullbar2 = "Colócalo en la parte delantera del M998 para proteger el capo y el motor.",
+	Tooltip_item_M998Mudflaps1 = "Elemento cosmético, salva al que esta detrás de ti del polvo y el barro.",
+	Tooltip_item_M101A3TrunkDoor = "Es una... puerta de maletero, para un... remolque.",
+	Tooltip_item_M101A3Cover1 = "Elemento cosmético, cubierta superior para el remolque.",
+	Tooltip_item_M101A3Tarp1 = "Elemento cosmético, lona para el remolque.",
+	
+	/* '83 AM GENERAL M923 */
+	
+	Tooltip_item_runflats = "Neumáticos militares universales que nunca reventarán pero perderán tracción cuando la condición sea baja.",
+	Tooltip_item_M923Axleflats = "Eje trasero M923 compuesto por 2 neumáticos militares que nunca reventarán pero perderán tracción cuando la condición sea baja.",
+	Tooltip_item_M923Muffler1 = "Reduce un poco el ruido del motor.",
+	Tooltip_item_M923Stakes1 = "Objeto cosmético, Cosmetic item, barandillas para la caja de carga del M923",
+	Tooltip_item_M923Bumper1 = "Acóplalo al frente del M923 para proteger un poco el capó y el motor.",
+	Tooltip_item_M923Bumper2 = "Acóplalo al frente del M923 para proteger totalmente el capó y el motor.",
+	Tooltip_item_M923HardCover1 = "Objeto cosmético, cobertura dura para cabina M923",
+	Tooltip_item_M923SoftCover2 = "Objeto cosmético, cobertura de lona para cabina M923",
+	Tooltip_item_M923Windshield2 = "Puedes usar un escalpelo para cortar parabrisas industriales para hacer parabrisas M923 de reemplazo.",
+	Tooltip_item_M923SideWindow2 = "Puedes usar un escalpelo para cortar ventanas industriales para hacer ventanas M923 de reemplazo.",
+	Tooltip_item_M923Gunport2 = "Puertos de armas de metal utilizados en la parte trasera del M923.",
+	Tooltip_item_M923WindshieldArmor1 = "Acóplalo al frente del M923 para proteger el parabrisas.",
+	Tooltip_item_M923DoorArmor1 = "Acóplalo a las puertas del M923 para proteger puertas y ventanas.",
+	Tooltip_item_M923GuntruckArmor1 = "Usado como base para los puertos de armas y asientos, instalado en la caja de carga.",
+	Tooltip_item_M923SpareMount1 = "Usado para soportar neumático de repuesto atrás de la cabina del M923.",
+	Tooltip_item_M923Mudflaps1 = "Objeto cosmético, salva al chico detrás de ti del polvo y el barro.",
+	
+	/* '84 MERCEDES BENZ W460 */
+	
+	Tooltip_item_W460NormalTires = "Neumático básico angosto W460.",
+	Tooltip_item_W460WideTires = "Neumático reforzado ancho W460 que nunca reventarán pero perderán tracción cuando la condición sea baja.",
+	Tooltip_item_W460ModernTires = "Neumático moderno W460 que se ve bien y tiene mejor tracción.",
+	Tooltip_item_W460Roofrack1 = "Espacio de almacenaje adicional en el techo, accesible desde todos los lados del vehículo.",
+	Tooltip_item_W460Bodykit1 = "Objeto cosmético, agrega un kit de carrocería.",
+	Tooltip_item_W460FrontDoorArmor1 = "Acóplalo a las puertas delanteras W460 para proteger puertas y ventanas delanteras.",
+	Tooltip_item_W460RearDoorArmor1 = "Acóplalo a las puertas traseras W460 para proteger puertas y ventanas traseras.",
+	Tooltip_item_W460SideWindow2 = "Puedes usar un escalpelo para cortar ventanas industriales para hacer ventanas W460 de reemplazo.",
+	Tooltip_item_W460Windshield2 = "Puedes usar un escalpelo para cortar parabrisas industriales para hacer parabrisas W460 de reemplazo.",
+	Tooltip_item_W460WindshieldArmor1 = "Acóplalo al frente del W460 para proteger el parabrisas.",
+	Tooltip_item_W460WindshieldArmorRear1 = "Acóplalo a la parte trasera del W460 para proteger el parabrisas trasero y la tapa del maletero.",
+	Tooltip_item_W460BackWindowArmor1 = "Objeto cosmético, acóplalo a las ventanas traseras del W460.",
+	Tooltip_item_W460Bumper1 = "Acóplalo al frente del W460 para proteger el capó, las luces y el motor.",
+	Tooltip_item_W460BumperRear1 = "Acóplalo a la parte trasera del W460 para proteger las luces traseras.",
+	Tooltip_item_W460Mudflaps1 = "Objeto cosmético, salva al chico detrás de ti del polvo y el barro.",
+	
+}

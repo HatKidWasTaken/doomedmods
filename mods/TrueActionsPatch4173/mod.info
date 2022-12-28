@@ -1,0 +1,5 @@
+name=TrueActions_1.08 Patch for 41.73
+id=TrueActionsPatch4173
+description=Patch True Actions to support 41.73 Victorian Couches and Chairs found in the rich Louisville districts. MUST BE LOADED AFTER TRUE ACTIONS
+poster=poster.png
+require=TMC_TrueActions

@@ -1,0 +1,53 @@
+module Base
+{
+/* NOTE: overwriting vanilla items is generally a BAD PRACTICE. However, for whatever reason, using lua + the DoParam function to modify the script items in question did not work in this instance.
+I have no idea why; using lua in that fashion has always worked before in my experience, and is best pratices, but in this case I had to overwrite the scripts themselves.
+Hopefully I will be able to figure out the issue and find a solution that works w/o overwriting vanilla items, as it is a BAD PRACTICE. */
+
+    item Generator
+    {
+        DisplayCategory = Electronics,
+        Weight	=	40,
+        Type	=	Normal,
+        DisplayName	=	Generator,
+        Icon	=	Generator,
+        Tooltip = Tooltip_Generator,
+		RequiresEquippedBothHands = true,
+		MetalValue = 500,
+        ConditionMax = 100,
+        Tags = HeavyItem,
+		StaticModel = PA_Generator,
+        primaryAnimMask = HoldingTorchRight,
+        secondaryAnimMask = HoldingTorchLeft,
+    }
+
+       item CorpseMale
+	{
+	    DisplayCategory = Corpse,
+		Weight	=	20.0,
+		Type	=	Normal,
+		DisplayName	=	Corpse,
+		Icon = DeadPerson_MaleZombie,
+		RequiresEquippedBothHands = true,
+		Tags = HeavyItem,
+		StaticModel = PA_Corpse,
+        primaryAnimMask = HoldingTorchRight,
+        secondaryAnimMask = HoldingTorchLeft,
+	}
+
+    item CorpseFemale
+	{
+	    DisplayCategory = Corpse,
+		Weight	=	20.0,
+		Type	=	Normal,
+		DisplayName	=	Corpse,
+		Icon = DeadPerson_FemaleZombie,
+		RequiresEquippedBothHands = true,
+		Tags = HeavyItem,
+		StaticModel = PA_Corpse,
+        primaryAnimMask = HoldingTorchRight,
+        secondaryAnimMask = HoldingTorchLeft,
+	}
+
+}
+

@@ -1,0 +1,253 @@
+Tooltip_ES = {
+	
+	/* BETTER LOCKPICKING */
+	Tooltip_BetLock_BobbyPin = "Objeto para forzar cerraduras. Se necesita también un destornillador y debes aprender a forzar cerraduras con la revista.",
+    Tooltip_BetLock_LockpickingMag = "Revista para aprender a forzar cerraduras. Podrás forzar puertas, ventanas y vehículos con una horquilla o una palanca.",
+    Tooltip_BetLock_AlarmMag = "Revista para detectar las alarmas. Podrás comprobar la alarma del vehículo/casa.",
+	
+	
+	/* CUSTOMIZABLE CONTAINERS */
+	Tooltip_RespawnToken = "SÓLO CREA ESTO CUANDO TENGAS UN ITEM CON ESTADÍSTICAS NO MODIFICADAS."
+	Tooltip_RespawnBag = "ESTO QUITARÁ TODOS LOS ITEM AÚN DENTRO."
+	Tooltip_CContainer_Tier_1 = "Un contenedor destinado al almacenamiento. Capacidad = 100."
+	Tooltip_CContainer_Tier_2 = "Un contenedor destinado al almacenamiento. Capacidad = 250."
+	Tooltip_CContainer_Tier_3 = "Un contenedor destinado al almacenamiento. Capacidad = 500."
+	Tooltip_CContainer_Tier_4 = "Un contenedor destinado al almacenamiento. Capacidad = 750."
+	Tooltip_CContainer_Tier_5 = "Un contenedor destinado al almacenamiento. Capacidad = 1000."
+	Tooltip_CContainer_Tier_6 = "Un contenedor destinado al almacenamiento. Capacidad = 2000."
+	Tooltip_CContainer_Tier_7 = "Un contenedor destinado al almacenamiento. Capacidad = 5000."
+	Tooltip_CContainer_Tier_8 = "Un contenedor destinado al almacenamiento. Capacidad = 10000."
+	
+	
+	/* XELITE'S SKILLBOOKS */
+	Tooltip_BookTitle_Lockpicking = "Cerrajería.",
+	Tooltip_BookTitle_Sprinting = "Esprintar.",
+	Tooltip_BookTitle_Lightfooted = "Caminar rápido.",
+	Tooltip_BookTitle_Sneaking = "Escabullirse.",
+	Tooltip_BookTitle_Nimble = "Ágil en combate.",
+	Tooltip_BookTitle_Aiming = "Puntería.",
+	Tooltip_BookTitle_Reloading = "Recarga.",
+	Tooltip_BookTitle_Axe = "Hachas.",
+	Tooltip_BookTitle_Spear = "Lanzas.",
+	Tooltip_BookTitle_Blunt = "Armas largas contundentes.",
+	Tooltip_BookTitle_SmallBlunt = "Armas cortas contundentes.",
+	Tooltip_BookTitle_LongBlade = "Armas de hoja larga.",
+	Tooltip_BookTitle_SmallBlade = "Armas de hoja corta.",
+	Tooltip_BookTitle_Maintenance = "Mantenimiento de armas.",
+	
+	
+	/* ZOMBIE VIRUS VACCINE UPDATE */
+	Tooltip_LabMicroscope = "Lugar de trabajo para la manipulación básica de células sanguíneas.",
+    Tooltip_LabChromatograph = "Un dispositivo para aislar los elementos necesarios de las composiciones. Se requiere una computadora para trabajar.",
+    Tooltip_LabSpectrometer = "Un dispositivo que examina muestras para detectar la presencia de elementos extraños.",
+    Tooltip_LabChemistrySet = "Lugar de trabajo para realizar una variedad de reacciones químicas.",
+    Tooltip_LabCentrifuge = "Se utiliza para separar la sangre en componentes.",
+    Tooltip_LabMuffleFurnace = "Horno para el procesamiento de vidrio y metales blandos.",
+    Tooltip_LabWorkbench = "Una mesa con todas las herramientas necesarias para crear una variedad de dispositivos.",
+    Tooltip_LabEasel = "Un atributo indispensable para cualquier maestro del retrato y el paisaje.",
+    Tooltip_LabSyringe = "Jeringa desechable para inyección y dispensación de sangre.",
+    Tooltip_LabSyringePack = "10 jeringas esterilizadas desechables.",
+    Tooltip_LabSyringeUsed = "No se puede reutilizar.",
+    Tooltip_LabTestTube = "Contenedor para almacenar materiales biológicos.",
+    Tooltip_LabTestTubeDirty = "Se puede esterilizar con agua caliente.",
+    Tooltip_LabFlask = "Contenedor para almacenar varios reactivos químicos.",
+    Tooltip_LabFlaskDirty = "Se puede esterilizar con agua caliente.",
+    Tooltip_LabGarbageBagWithRemains = "Un zombi embalado. Mejor desecharlo.",
+    Tooltip_LabPlasticBagWithRemains = "Lo que queda de la investigación zombie. Mejor deshacerse de esto",
+    Tooltip_LabSyringeReusableUsed = "Se puede esterilizar con agua caliente.",
+    Tooltip_MatInfectedBlood = "Muestra de sangre zombie. Se estropea rápidamente.",
+    Tooltip_MatTaintedBlood = "Muestra de sangre inservible.",
+    Tooltip_MatShatteredGlass = "Material para la fabricación de cristalería de laboratorio.",
+    Tooltip_ChHydrochloricAcidCan = "Siempre use guantes cuando manipule ácido.",
+    Tooltip_ChSodiumHydroxideBag = "Reactivo químico.",
+    Tooltip_ChAmmonia = "Utilizado como reactivo químico.",
+    Tooltip_ChSulfuricAcidCan = "Ácido muy fuerte. Tome precauciones.",
+    Tooltip_CmpSyringeWithBlood = "Puede ser analizado para virus zombie. No se almacena durante mucho tiempo.",
+    Tooltip_CmpSyringeWithTaintedBlood = "Muestra de sangre inservible.",
+    Tooltip_CmpTestTubeWithInfectedBlood = "Material de investigación principal.",
+    Tooltip_CmpFlaskWithBloodCells = "Células sanguíneas activas. Se requiere más investigación y purificación.",
+    Tooltip_CmpFlaskWithBloodPlasma = "Se utiliza como componente para crear medicamentos.",
+    Tooltip_CmpFlaskWithLeukocytes = "Base vacunal y fuente de anticuerpos.",
+    Tooltip_CmpTestTubeWithAntibodies = "La base para crear una cura para el virus zombie.",
+    Tooltip_CmpSyringeWithPlainVaccine = "Retrasa la muerte por virus zombie. No lo use si está sano.",
+    Tooltip_CmpSyringeWithQualityVaccine = "Retrasa la muerte por el virus, use albúmina para mantener el efecto. Da una posibilidad mínima de curación.",
+    Tooltip_CmpSyringeWithAdvancedVaccine = "Retrasa el resultado letal, brinda buena inmunidad a la infección por un corto período de tiempo.",
+    Tooltip_CmpSyringeWithCure = "Cura el virus zombie sin efectos secundarios.",
+    Tooltip_CmpFlaskWithSodiumHypochlorite = "Se utiliza para crear inyecciones.",
+    Tooltip_CmpFlaskWithAmmoniumSulfate = "Se utiliza para limpiar sustancias biológicas.",
+    Tooltip_CmpFlaskWithHydrogenPeroxide = "Base desinfectante.",
+    Tooltip_CmpAlbuminPills = "Restaura una pequeña cantidad de salud.",
+    Tooltip_CmpChlorineTablets = "Tabletas purificadoras de agua de acción rápida.",
+    Tooltip_BkLaboratoryEquipment1 = "Planos y consejos para ensamblar una variedad de equipos de laboratorio.",
+    Tooltip_BkLaboratoryEquipment2 = "Taller de elaboración de materiales visuales y carteles.",
+    Tooltip_BkLaboratoryEquipment3 = "Instrucciones de funcionamiento de un horno de mufla con ejemplos prácticos.",
+    Tooltip_BkVirologyCourses1 = "Métodos para la extracción y estudio de materiales biológicos.",
+    Tooltip_BkVirologyCourses2 = "Fabricación y uso de medicamentos antivirales.",
+    Tooltip_BkChemistryCourse = "Una pequeña guía para los interesados en la química.",
+	
+	
+	/* FIREARMS B41 */
+	Tooltip_Silencer = "Suprime el sonido al disparar un arma.",
+    Tooltip_ImprovisedSilencer = "Silenciador improvisado que suprime el sonido. Es mejor que nada.",
+    Tooltip_Bipod = "Disminuye el retroceso y a su vez aumenta la posibilidad de impactar.",
+    Tooltip_AmmoStock = "Disminuye la velocidad de recarga.",
+    Tooltip_TacticalStock = "Disminuye el retroceso y a su vez aumenta la posibilidad de impactar.",
+    Tooltip_ExtendableStock = "Disminuye el retroceso y a su vez aumenta la posibilidad de impactar. Puede ser detraído.",
+    Tooltip_Compensator = "Disminuye el retroceso y a su vez aumenta la posibilidad de impactar.",
+    Tooltip_ServiceFirearms = "Puede utilizarse para el mantenimiento de armas de fuego.",
+    Tooltip_22 = "Cartuchos .22 LR",
+    Tooltip_9mm = "Cartuchos 9x19mm",
+	
+	
+	/* SOULFILCHER'S EXPLORING TIME */
+	Tooltip_GasLantern = "Se llena con botellas con gasolina.",
+	
+	
+	/* IMPROVISED GLASS */
+	Tooltip_IGMagazineGlass = "...al menos deberían encontrarte útil.",
+	
+	
+	/* THE WORKSHOP */
+	Tooltip_HugePropaneTank = "Solo se puede mover con un remolque.",
+	Tooltip_MetalWorkbench = "Se utiliza para todas las recetas en la pestaña de desguace.",
+	Tooltip_MetalParts = "Chatarra pero más pequeña.",
+	Tooltip_LargeBolt = "Es como un clavo pero mucho más grande.",
+	Tooltip_File = "Para afilar cuchillas y más.",
+	Tooltip_Pliers = "Se puede utilizar para desmontar objetos pequeños.",
+	Tooltip_MetalCutter	= "Se utiliza para cortar láminas de metal.",
+	Tooltip_Motor = "Un pequeño motor.",
+	Tooltip_Toolbelt = "Permite el almacenamiento de varias herramientas.",
+	Tooltip_WorkshopMag1 = "Enseña a desechar objetos metálicos.",
+	Tooltip_WorkshopMag2 = "Enseña a desmontar armas y herramientas.",
+	Tooltip_WorkshopMag3 = "Enseña cómo hacer un horno de gas propano y cómo usarlo.",
+	Tooltip_WorkshopMag4 = "Enseña a desmontar piezas de automóviles para chatarra.",
+	Tooltip_WorkshopMag5 = "Enseña a desmontar elementos complejos.",
+	
+	
+	/* SCRAP WEAPONS */
+	Tooltip_WeaponMag1 = "Como construir armas penetrantes de craneos.",
+	Tooltip_WeaponMag2 = "Enseña a hacer mangos caseros.",
+	Tooltip_WeaponMag3 = "Enseña a hacer armas contundentes.",
+	Tooltip_WeaponMag4 = "Enseña a fabricar hachas salvajes como armas.",
+	Tooltip_WeaponMag5 = "Enseña cómo hacer armas del tipo lanza.",
+	Tooltip_WeaponMag6 = "Enseña cómo usar una lima para fabricar armas de hoja larga.",
+	Tooltip_2x4UpgradedAxe = "Una pieza de madera mejorada (Hacha).",
+	Tooltip_2x4UpgradedShortBlunt = "Una pieza de madera mejorada (Corta contundente).",
+	Tooltip_SharpenedScrewdriver = "Es como un pincho con un mango (Hoja corta).",
+	Tooltip_GlassShiv = "Muy frágil pero funciona (Hoja corta).",
+	Tooltip_ScrapShiv = "Rústico pero funciona (Hoja corta).",
+	Tooltip_SalvagedShiv = "Es fuerte (Hoja corta).",
+	Tooltip_SpearUpgraded = "Una lanza mejorada (Lanza).",
+	Tooltip_SpearSalvaged = "Lanza extremadamente resistente con una hoja afilada (Lanza).",
+	Tooltip_ScrapSpear = "Lanza de madera con hoja (Lanza).",
+	Tooltip_ScrapPickaxe = "Una pata de mesa con grandes picos (Hacha).",
+	Tooltip_PipewithScissors = "Un tubo de metal con tijeras en el (Hacha).",
+	Tooltip_ScrapAxe = "Puede cortar árboles y enemigos (Hacha).",
+	Tooltip_SalvagedClimbingAxe = "Puede penetrar craneos (Abre puertas) (Hacha).",
+	Tooltip_SharpenedStopSign = "No te detengas... ¡VAMOS A MATARLOS A TODOS! (Hacha).",
+	Tooltip_HugeScrapPickaxe = "Un tubo de metal con grandes picos en el. (Hacha).",
+	Tooltip_ScrapClub = "Un garrote hecho con chatarra (Corta contundente).",
+	Tooltip_SalvagedClub = "Un garrote mejorado con una cadena (Corta contundente).",
+	Tooltip_SalvagedCrowbar = "Una palanqueta mejorada (Abre puertas) (Larga contundente).",
+	Tooltip_BoltBat = "Bate de béisbol con pernos (Larga contundente).",
+	Tooltip_ChainBat = "Bate de béisbol con cadena (Larga contundente).",
+	Tooltip_SalvagedPipe = "Una tubería alargada y robusta (Larga contundente).",
+	Tooltip_TinCanClub = "¿Una maza casera? (Larga contundente).",
+	Tooltip_SalvagedSledgehammer = "Rompehuesos extremadamente pesado (Larga contundente).",
+	Tooltip_GearMace = "Trituradora de cráneos extremadamente pesada (Larga contundente).",
+	Tooltip_WireBat = "Bate de béisbol con alambre (Larga contundente).",
+	Tooltip_Micromaul = "Un microondas en un palo (Larga contundente).",
+	Tooltip_ScrapSword = "Una espada pesada (Hoja larga).",
+	Tooltip_ScrapMachete = "Una cuchilla hecha de chatarras (Hoja larga).",
+	Tooltip_SalvagedNightstick = "No se puede adjuntar debido a problemas de recorte (Hoja larga).",
+	Tooltip_SalvagedMachete = "Un cortador de zombis bien elaborado (Hoja larga).",
+	Tooltip_ScrapBlade = "Rústico pero afilado (Hoja larga).",
+	Tooltip_SalvagedBlade = "Una katana hecha en casa (Hoja larga).",
+	Tooltip_SalvagedCleaver = "Una cuchilla extremadamente pesada (Hoja larga).",
+	
+	
+	/* SCRAP ARMOR */
+	Tooltip_ScrapShield = "Protege tus brazos y torso.",
+	Tooltip_ScrapHandPlate = "Protege tus manos.",
+	Tooltip_ScrapHelmet = "Protege tu cabeza.",
+	Tooltip_ScrapKilt = "Protege tu cintura.",
+	Tooltip_ScrapLegPad = "Protege tus muslos.",
+	Tooltip_ScrapPauldrons = "Protege tu cuello.",
+	Tooltip_ScrapShinPlate = "Protege tus piernas.",
+	Tooltip_ScrapShoulderPad = "Protege tus hombros y brazos.",
+	Tooltip_ScrapVest = "Protege tu pecho.",
+	Tooltip_SwordSheath = "Puedes enfundar una espada.",
+	Tooltip_ScrapLegPouch = "Permite llevar equipo adicional.",
+	Tooltip_ArmorMag1 = "Enseña recetas básicas de armadura.",
+	Tooltip_ArmorMag2 = "Improvisar elementos comunes en escudos.",
+	Tooltip_ArmorMag3 = "Mejora armaduras de chatarra con letreros viales.",
+	Tooltip_ArmorMag4 = "Mejora armaduras de chatarra con pernos y tornillos.",
+	Tooltip_ArmorMag5 = "Faltan algunas páginas o no se pueden leer.",
+	
+	
+	/* SCRAP GUNS */
+	Tooltip_ScrapGunMag1 = "Enseña a usar el aire comprimido como arma.",
+	Tooltip_ScrapGunMag2 = "Enseña a fabricar explosivos caseros.",
+	Tooltip_ScrapGunMag3 = "Enseña cómo hacer armas de fuego avanzadas.",
+	Tooltip_ScrapGunMag4 = "Enseña a hacer armas de fuego básicas.",
+	Tooltip_UsesMetalScraps = "Utiliza restos de metal.",
+	Tooltip_UsesShrapnelShells = "Utiliza proyectiles de metralla.",
+	Tooltip_UsesSRMag = "Utiliza cargador de rifle artesanal (Restos de metal).",
+	Tooltip_Uses308Bullets = "Utiliza balas del .308.",
+	Tooltip_UsesShotgunShells = "Utiliza cartuchos de escopeta.",
+	Tooltip_UsesSalvagedMag = "Utiliza cargador artesanal (Balas artesanales).",
+	Tooltip_UsesSalvagedBullets	= "Utiliza balas artesanales.",
+	Tooltip_UsesScrapPistolMag = "Utiliza cargador de pistola casera (Balas caseras).",
+	Tooltip_UsesScrapSMGMag = "Utiliza cargador de subfusil casero (Balas caseras).",
+	Tooltip_UsesScrapGatlingBoxMag = "Utiliza caja de munición de ametralladora casera (Balas caseras).",
+	Tooltip_UsesScrapBullets = "Utiliza balas caseras.",
+	
+	
+	/* SOULFILCHER'S BLACKSMITH */
+	Tooltip_smith_AddLogs = "Añade 5 troncos para convertirlos en carbón, una vez hecho, enciende el barril con un mechero y espera.",
+	Tooltip_smith_CharcoalProgression = "Progresión del carbón vegetal: ",
+	
+	
+	/* SOULFILCHER'S BUILDING TIME */
+	Tooltip_craft_ConcreteFloorDesc = "Un suelo básico hecho de hormigón.",
+	Tooltip_craft_BrickFenceDesc = "Proporciona una protección limitada contra las hordas.",
+	Tooltip_craft_BrickOvenDesc	= "Se utiliza para cocinar ladrillos.",
+	Tooltip_craft_DisplayCounterDesc = "Muestra tu última cosecha.",
+	Tooltip_item_HandTruck = "No puede luchar mientras está equipado en una mano.<br>Sólo puede llevar objetos grandes.",
+	
+	
+	/* STALKER TOXIC ZONES */
+	Tooltip_clothing_Filter = "Filtro:",
+	
+	
+	/* EXPANDED HELICOPTER EVENTS */
+	Tooltip_dismantle_helicopterpart = "El uso de un soplete y una máscara de soldar producirá metal.",
+    Tooltip_open_boxes_barehanded = "Sería más rápido abrir con algo afilado.",
+    Tooltip_Parachute = "Se puede romper para hacer tela rasgada.",
+    Tooltip_EnergyBar = "Una barra de energía empaquetada para kits de supervivencia. Fabricada por PT&D.",
+    Tooltip_SurvivalVest = "Chaleco de supervivencia estándar para pilotos militares.",
+    Tooltip_SurvivalVestBlack = "Chaleco de supervivencia estándar para búsqueda y rescate policial.",
+    Tooltip_SPHMilitary = "Casco de helicóptero militar estándar".
+    Tooltip_SPHBlack = "Casco de helicóptero militar estándar en negro.",
+    Tooltip_SPHPolice = "Casco de helicóptero utilizado por las alas aéreas de la policía.",
+    Tooltip_SPHCivilian = "Casco de helicóptero usado por pilotos civiles.",
+    Tooltip_FlyerCDC = "Parece un folleto informativo de salud.",
+    Tooltip_FlyerMilitary = "Parece un volante de notificación del ejército.",
+    Tooltip_CivilDefense = "Parece un volante de defensa civil.",
+    Tooltip_WaterSealed = "Ración de agua sellada distribuida por el gobierno de EE. UU."
+    Tooltip_WaterUnsealed = "Ración de agua sin sellar distribuida por el gobierno de EE. UU."
+    Tooltip_SupplyBox = "Caja de suministros del gobierno de EE. UU.".
+    Tooltip_SamaritanBox = "Caja de suministros de un grupo de samaritanos misteriosos.",
+    Tooltip_BanditBox = "Caja de almacenamiento personal. Dice "¡MI MIERDA, NO LA TOQUES!",
+    Tooltip_SignalFlare = "Bengala de señalización. No disparar en interiores.",
+    Tooltip_HandFlare = "Bengala. No disparar en interiores",
+	
+	
+	/* BOW AND ARROW */
+	Tooltip_MBA_Bow_Stave = "Esta duela aún no es un arco.<br>Debe ser tallada un poco más.",
+	
+	
+	/* EXCREMENTUM */
+	Tooltip_HumanFeces = "Aunque puedas comerlo, no deberías hacerlo. ¡Ugh!",
+	
+}

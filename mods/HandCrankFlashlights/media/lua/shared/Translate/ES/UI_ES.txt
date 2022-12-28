@@ -1,0 +1,4 @@
+UI_ES = {
+	UI_CTTurnCrank = "Recargar",
+	UI_optionscreen_binding_CRANK_HOTKEY = "Recargar linterna a manivela",
+}

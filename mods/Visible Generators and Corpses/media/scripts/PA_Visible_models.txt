@@ -1,0 +1,21 @@
+module Base
+{
+
+	/*"Corpse v02" (https://skfb.ly/69rHs) by Alexandr Zhilkin is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).*/
+	
+		model PA_Corpse
+	{
+		mesh = PA_Corpse,
+		texture = PA_Corpse,
+		scale = 0.005,
+	}
+	
+	
+		model PA_Generator
+	{		
+		mesh = PA_Generator,
+        texture = WorldItems/Generator,
+		scale = 0.00275,
+	}
+}
+

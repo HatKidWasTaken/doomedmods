@@ -1,0 +1,10 @@
+UI_JP = {
+	UI_legendCommunity = "公共施設",
+	UI_legendHospitality = "宿泊施設",
+	UI_legendIndustrial = "産業",
+	UI_legendMedical = "医療",
+	UI_legendParks = "公園",
+	UI_legendResidential = "住宅",
+	UI_legendRestaurants = "飲食 & 娯楽",
+	UI_legendRetail = "小売 & 商業施設",
+}

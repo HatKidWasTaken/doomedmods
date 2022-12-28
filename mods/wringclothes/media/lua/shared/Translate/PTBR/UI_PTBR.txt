@@ -1,0 +1,5 @@
+UI_PTBR = {
+	UI_ContextMenu_WringClothing_Option = "Torcer Roupa"
+	UI_ContextMenu_WringClothing_Tooltip = "Remove o excesso de água da roupa"
+}
+

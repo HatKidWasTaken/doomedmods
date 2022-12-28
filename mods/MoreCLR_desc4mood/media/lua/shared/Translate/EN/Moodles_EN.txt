@@ -1,0 +1,109 @@
+Moodles_EN = {
+	-- Description of moodle:
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "-50% melee dmg.<br>-0.07 attack speed<br>+10% trip chance<br>-5% climb chance<br>-15% speed",
+	Moodles_endurance_desc_lvl2 = "-80% melee dmg.<br>-0.14 attack speed<br>+20% trip chance<br>-10% climb chance<br>-30% speed<br>sprint disabled",
+	Moodles_endurance_desc_lvl3 = "-90% melee dmg.<br>-0.21 attack speed<br>+30% trip chance<br>-15% climb chance<br>-45% speed<br>spd-walk/exercise disabled",
+	Moodles_endurance_desc_lvl4 = "-95% melee dmg.<br>-0.28 attack speed<br>+40% trip chance<br>-20% climb chance<br>-60% speed<br>spd-walk/exercise/heavy weapons disabled",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "-5% crit. chance<br>-0.07 attack speed<br>+13% trip chance<br>-8% climb chance<br>-15% speed<br>reduced endurance",
+	Moodles_heavyload_desc_lvl2 = "-10% crit. chance<br>-0.14 attack speed<br>+26% trip chance<br>-16% climb chance<br>-30% speed<br>reduced endurance<br>sprint disabled<br>losing HP",
+	Moodles_heavyload_desc_lvl3 = "-15% crit. chance<br>-0.21 attack speed<br>+39% trip chance<br>-24% climb chance<br>-45% speed<br>reduced endurance<br>run/exercise disabled<br>losing HP",
+	Moodles_heavyload_desc_lvl4 = "-20% crit. chance<br>-0.28 attack speed<br>+52% trip chance<br>-32% climb chance<br>-60% speed<br>reduced endurance<br>run/exercise disabled<br>losing HP",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "-50% melee dmg.<br>vision & awareness decreases<br>increased muscle stiffness<br>slow endurance regain",
+	Moodles_tired_desc_lvl2 = "-80% melee dmg.<br>vision & awareness decreases more<br>increased muscle stiffness<br>slower endurance regain",
+	Moodles_tired_desc_lvl3 = "-90% melee dmg.<br>vision & awareness decreases even more<br>increased muscle stiffness<br>even slower endurance regain<br>you can sleep despite high pain",
+	Moodles_tired_desc_lvl4 = "-95% melee dmg.<br>very decreased vision & can't see behind you<br>increased muscle stiffness<br>endurance regain disabled<br>you can sleep despite high pain",
+	-- CantSprint
+	Moodles_CantSprint_desc = "heavy clothing, bags, or items are slowing you down! sprint disabled",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "13%^ Thirsty, no effects",
+	Moodles_thirst_desc_lvl2 = "25%^ Thirsty<br>-10% strength<br>-10% healing<br>body heat increase",
+	Moodles_thirst_desc_lvl3 = "70%^ Thirsty<br>-20% strength<br>-20% healing<br>body heat increases fast",
+	Moodles_thirst_desc_lvl4 = "85%^ Thirsty<br>-20% strength<br>-30% healing<br>body heat quickly increases<br>losing HP",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "15%^ Hungry, no effects",
+	Moodles_hungry_desc_lvl2 = "25%^ Hungry<br>-10% strength<br>-15% body heat<br>-10% healing",
+	Moodles_hungry_desc_lvl3 = "45%^ Hungry<br>-20% strength<br>-35% body heat<br>-20% healing",
+	Moodles_hungry_desc_lvl4 = "70%^ Hungry<br>-20% strength<br>-50% body heat<br>-30% healing<br>losing HP",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "+2 carrying capacity<br>+15% healing",
+	Moodles_foodeaten_desc_lvl2 = "+2 carrying capacity<br>+30% healing",
+	Moodles_foodeaten_desc_lvl3 = "+2 carrying capacity<br>+45% healing<br>can't eat more food",
+	Moodles_foodeaten_desc_lvl4 = "+2 carrying capacity<br>+60% healing<br>can't eat more food",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "10%^ Drunk<br>small boredom decrease<br>small fatigue & vehicle input delay increase<br>small accuracy & body heat decrease",
+	Moodles_drunk_desc_lvl2 = "30%^ Drunk<br>boredom decreases<br>increased fatigue & vehicle input delay<br>accuracy & body heat decreases",
+	Moodles_drunk_desc_lvl3 = "50%^ Drunk<br>boredom decreases fast<br>high increase on fatigue & vehicle input delay<br>accuracy & body heat decreases more",
+	Moodles_drunk_desc_lvl4 = "70%^ Drunk<br>boredom quickly decreases<br>very high increase on fatigue & vehicle input delay<br>accuracy & body heat decreases even more",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "25%^ Bored, no effects",
+	Moodles_bored_desc_lvl2 = "50%^ Bored<br>unhappiness increase",
+	Moodles_bored_desc_lvl3 = "75%^ Bored<br>unhappiness increases fast",
+	Moodles_bored_desc_lvl4 = "90%^ Bored<br>unhappiness quickly increases",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "20%^ Unhappy<br>-10% actions speed",
+	Moodles_unhappy_desc_lvl2 = "45%^ Unhappy<br>-20% actions speed",
+	Moodles_unhappy_desc_lvl3 = "60%^ Unhappy<br>-30% actions speed",
+	Moodles_unhappy_desc_lvl4 = "80%^ Unhappy<br>-40% actions speed",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "25%^ Stressed, no effects",
+	Moodles_stress_desc_lvl2 = "50%^ Stressed<br>-10% melee dmg.<br>unhappiness increase",
+	Moodles_stress_desc_lvl3 = "75%^ Stressed<br>-20% melee dmg.<br>unhappiness increases fast",
+	Moodles_stress_desc_lvl4 = "90%^ Stressed<br>-30% melee dmg.<br>unhappiness quickly increases",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "-1,3% crit. chance<br>worse reload & rack time",
+	Moodles_panic_desc_lvl2 = "-2,3% crit. chance<br>-10% melee dmg.<br>gets up from sitting faster<br>worse knockback/knockdown chance/accuracy/reload & rack time",
+	Moodles_panic_desc_lvl3 = "-3,9% crit. chance<br>-20% melee dmg.<br>gets up from sitting faster<br>worse knockback/knockdown chance/accuracy/reload & rack time",
+	Moodles_panic_desc_lvl4 = "-5,2% crit. chance<br>-30% melee dmg.<br>gets up from sitting faster<br>vision narrows<br>worse knockback/knockdown chance/accuracy/reload & rack time",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "15%^ Wet, no effects",
+	Moodles_wet_desc_lvl2 = "40%^ Wet<br>small chance to catch a cold",
+	Moodles_wet_desc_lvl3 = "70%^ Wet<br>chance to catch a cold",
+	Moodles_wet_desc_lvl4 = "90%^ Wet<br>high chance to catch a cold",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "20%^ cold strength<br>sneezes/coughs",
+	Moodles_hasacold_desc_lvl2 = "40%^ cold strength<br>sneezes/coughs more",
+	Moodles_hasacold_desc_lvl3 = "60%^ cold strength<br>sneezes/coughs often<br>-20% speed & healing",
+	Moodles_hasacold_desc_lvl4 = "80%^ cold strength<br>sneezes/coughs a lot<br>-35% speed & healing",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "25%^ Incidence, small body heat increase, might lose HP",
+	Moodles_sick_desc_lvl2 = "50%^ Incidence, body heat increase, -10% strength, -1 carrying capacity, -10% healing, might lose HP",
+	Moodles_sick_desc_lvl3 = "75%^ Incidence, high body heat increase, -20% strength, -2 carrying capacity, -20% healing, might lose HP",
+	Moodles_sick_desc_lvl4 = "100% Incidence, higher body heat increase, -30% strength, -3 carrying capacity, might lose HP",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "80%v HP, no effects",
+	Moodles_injured_desc_lvl2 = "60%v HP<br>-10% strength",
+	Moodles_injured_desc_lvl3 = "40%v HP<br>-20% strength",
+	Moodles_injured_desc_lvl4 = "25%v HP<br>-30% strength",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "+5% trip chance",
+	Moodles_pain_desc_lvl2 = "+10% trip chance<br>-15% attack dmg-spd/speed<br>sleep disabled",
+	Moodles_pain_desc_lvl3 = "+15% trip chance<br>-20% attack dmg-spd/speed<br>sleep disabled",
+	Moodles_pain_desc_lvl4 = "+20% trip chance<br>-35% attack dmg-spd/speed<br>sleep/exercise disabled",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "slowly losing HP",
+	Moodles_bleed_desc_lvl2 = "-10% strength<br>losing HP",
+	Moodles_bleed_desc_lvl3 = "-10% strength<br>losing HP fast",
+	Moodles_bleed_desc_lvl4 = "-10% strength<br>quickly losing HP",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "Temperature 37.5°C<br>thirst increase",
+	Moodles_hyperthermia_desc_lvl2 = "Temperature 39°C<br>thirst increases more<br>-34% attack speed<br>-34% speed",
+	Moodles_hyperthermia_desc_lvl3 = "Temperature 40°C<br>thirst increases fast<br>-67% attack speed<br>-67% speed",
+	Moodles_hyperthermia_desc_lvl4 = "Temperature 41°C<br>thirst quickly increases<br>-90% attack speed<br>-100% speed<br>losing HP",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "Temperature 36.5°C, no effects",
+	Moodles_hypothermia_desc_lvl2 = "Temperature 35°C<br>-34% attack speed<br>-34% speed<br>small chance to catch a cold",
+	Moodles_hypothermia_desc_lvl3 = "Temperature 30°C<br>-67% attack speed<br>-67% speed<br>chance to catch a cold",
+	Moodles_hypothermia_desc_lvl4 = "Temperature 25°C<br>-90% attack speed<br>-100% speed<br>high chance to catch a cold<br>losing HP",
+	-- Windchill
+	Moodles_windchill_desc_lvl1 = "5-10°C colder than it seems",
+	Moodles_windchill_desc_lvl2 = "10-15°C colder than it seems",
+	Moodles_windchill_desc_lvl3 = "15-20°C colder than it seems",
+	Moodles_windchill_desc_lvl4 = "20°C colder than it seems",
+	-- Dead
+	Moodles_dead_lvl1 = "Rest in peace.",
+	-- Zombified
+	Moodles_zombie_lvl1 = "The worst ending.",
+}

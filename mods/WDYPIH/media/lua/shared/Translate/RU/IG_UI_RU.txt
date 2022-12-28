@@ -1,0 +1,4 @@
+IG_UI_EN = {
+    IGUI_WDYPIH_Name = "Название для [%1]:",
+    IGUI_WDYPIH_NoName = "Без названия",
+}

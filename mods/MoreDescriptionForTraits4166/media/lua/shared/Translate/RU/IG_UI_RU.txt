@@ -1,0 +1,4 @@
+IGUI_RU = {
+   IGUI_SearchMode_Categories_FishBait = "Наживка для рыбалки",
+    IGUI_SearchMode_Categories_ForestRarities = "Лесные редкости",
+}

@@ -1,0 +1,13 @@
+UI_trait_WeakStomachDesc = "Higher chance to have food illness.(+100% chance)<br>(Food illness lasts shorter.[probably unintended by the devs])",
+
+UI_trait_veryunderweightdesc = "Very low strength, very low endurance and prone to injury.<br> Replaced by Emaciated if weight goes below 50.<br>Replaced by Underweight if weight goes above 65.<br>-40% melee damage.<br>+20% chance to trip while run/sprint vaulting a low fence or lunging zombies.<br>+25% chance to fail a tall fence climb.<br>+10 fall damage.)",
+
+UI_trait_underweightdesc = "Low strength, low endurance and prone to injury.<br>(Starting wieght is 70.<br>Replaced by Very Underweight if weight goes below 65.<br>Lost if weight goes above 75.<br>-20% melee damage.<br>+10% chance to trip while run/sprint vaulting a low fence or lunging zombies.<br>+15% chance to fail a tall fence climb.)",
+
+UI_trait_obesedesc = "Reduced running speed, very low endurance and prone to injury.<br>(Starting weight is 105.<br>Replaced by Overweight if weight goes below 100.<br>+20% chance to trip while run/sprint vaulting a low fence.<br>-10% chance to trip from lunging zombies.<br>+15% chance to fail a tall fence climb.<br>-60% endurance regeneration.<br>+20 fall damage.)"	,
+
+UI_trait_overweightdesc = "Reduced running speed, very low endurance and prone to injury.<br>(Starting weight is 95.<br>Replaced by Obese if weight goes above 100.<br> Lost if weight goes below 85.<br>+10% chance to trip while run/sprint vaulting a low fence.<br>+25% chance to fail a tall fence climb.<br>-30% endurance regeneration.)"	,
+
+Pacifist : also affects Maintenance
+
+Axeman : now properly affects attack speed against zombies

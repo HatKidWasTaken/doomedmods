@@ -1,0 +1,17 @@
+DynamicRadio_ES = {
+
+    /* EXPANDED HELICOPTER EVENTS */
+	AEBS_SupplyDrop = "Paquete de suministro entrante.",
+	AEBS_Raiders = "Si puedes escuchar esto, estás jodi-",
+	AEBS_SurvivorHeli = "Saliendo el saqueador.",
+	AEBS_SamaritanDrop = "Para todos los que siguen con vida, estamos trayendo suministros.",
+	AEBS_UnauthorizedEntryPolice = "Actividad aérea no autorizada, aplicación de la ley no detectada.",
+	AEBS_UnauthorizedEntryNews = "Actividad aérea no autorizada, intrusos detectados.",
+	AEBS_JetBombing = "Comenzamos la purga, iniciando bombardeo.",
+	AEBS_JetPass = "Caza entrante en la zona.",
+	AEBS_AirRaid = "PERMANEZCA EN INTERIORES Y BUSQUE REFUGIO",
+	AEBS_HostileMilitary = "Actividad aérea detectada. Operaciones militares especiales en curso. Buena suerte.",
+	AEBS_PurgeMilitary = "Actividad aérea detectada. Operaciones de control de multitudes infectadas en curso.",
+	AEBS_Military = "Actividad aérea detectada. Operaciones de evacuación en curso",
+	
+}

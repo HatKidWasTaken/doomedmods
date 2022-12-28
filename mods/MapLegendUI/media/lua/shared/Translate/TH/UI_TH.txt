@@ -1,0 +1,10 @@
+UI_TH = {
+	UI_legendCommunity = "สถานบริการชุมชน",
+	UI_legendRetail = "ร้านค้า & ห้างสรรพสินค้า",
+	UI_legendIndustrial = "อุตสาหกรรม",
+	UI_legendResidential = "ที่อยู่อาศัย",
+	UI_legendRestaurants = "ร้านอาหาร & สถานบันเทิง",
+	UI_legendHospitality = "ที่พักอาศัย",
+	UI_legendMedical = "สถานพยาบาล",
+	UI_legendParks = "สวนสาธารณะ",
+}

@@ -1,0 +1,4 @@
+UI_EN = {
+	UI_CTTurnCrank = "Recharge"
+	UI_optionscreen_binding_CRANK_HOTKEY = "Recharge Hand Crank Flashlight",
+}

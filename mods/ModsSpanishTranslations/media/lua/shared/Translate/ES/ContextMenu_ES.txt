@@ -1,0 +1,147 @@
+ContextMenu_ES = {
+
+	/* UNDEAD SURVIVOR */
+	
+    ContextMenu_TuckIn = "Enrollar",
+    ContextMenu_TuckOut = "Desenrollar",
+	ContextMenu_UpHoodie = "Subir capucha",
+    ContextMenu_DownHoodie = "Bajar capucha",
+	
+	/* AUTHENTIC Z - AUTHENTIC Z LITE */
+	
+	ContextMenu_Loosen = "Aflojar",
+	ContextMenu_Tighten = "Ajustar",
+	ContextMenu_TieOnWaist = "Atar alrededor de la cintura",
+	ContextMenu_JacketOpen = "Abrir chaqueta",
+	ContextMenu_ClosedJacket = "Cerrar chaqueta",
+	ContextMenu_VestBag = "Usar como bolsa",
+	ContextMenu_VestBullet = "Usar como chaleco antibalas",
+	ContextMenu_VestRadio = "Usar como radio",
+	ContextMenu_WearHead = "Vestir en la cabeza",
+	ContextMenu_WearNeck = "Vestir en el cuello",
+	ContextMenu_AfroPick = "Vestir para cabello grande",	
+	ContextMenu_AfroPick2 = "Vestir para cabello pequeño",	
+	ContextMenu_HatsOnHats = "Usar sombrero en sombrero",	
+	ContextMenu_WearNormally = "Vestir en la cabeza",	
+	ContextMenu_TakeOffShoeCovers = "Sacar cubrezapatos",	
+	ContextMenu_TakeOffShoeCoversAndMask = "Sacar cubrezapatos y mascarilla",	
+	ContextMenu_TakeOffMask = "Sacar mascarilla",	
+	ContextMenu_WearNormally2 = "Vestir con cubrezapatos y mascarilla",	
+	ContextMenu_TipHatBack = "Inclinar sombrero hacia atrás",	
+	ContextMenu_TipHatForward = "Inclinar sombrero hacia adelante",
+	
+	/* CLOTHES BOX REDUX */
+	
+	ContextMenu_SwapSides = "Cambiar de lado",
+	ContextMenu_JacketOpen = "Abrir",
+	ContextMenu_ClosedJacket = "Cerrar",
+	ContextMenu_RollUpSleeves = "Arremangar",
+	ContextMenu_RollDownSleeves = "Desarremangar",
+	
+	/* SHARK'S AND PEACH'S MILITARY UNIFORM IMPROVEMENTS */
+	
+	ContextMenu_RollUp = "Arremangar",
+    ContextMenu_RollDown = "Desarremangar",
+	ContextMenu_TuckIn = "Enrollar",
+    ContextMenu_TuckOut = "Desenrollar",
+	ContextMenu_FlipUp = "Voltear hacia arriba",
+    ContextMenu_FlipDown = "Voltear hacia abajo",
+	ContextMenu_Strap = "Abrochar",
+    ContextMenu_Unstrap = "Desabrochar",
+	ContextMenu_Fasten = "Ajustar",
+    ContextMenu_Unfasten = "Aflojar",
+	ContextMenu_VisorUp = "Visor arriba",
+    ContextMenu_VisorDown = "Visor abajo",
+	ContextMenu_PullUp = "Levantar",
+    ContextMenu_PullDown = "Bajar",
+	ContextMenu_LeftArm = "Brazo izquierdo",
+    ContextMenu_RightArm = "Brazo derecho",
+    ContextMenu_Fold = "Doblar",
+    ContextMenu_Unfold = "Desdoblar",
+	
+	/* SHARK'S LAW ENFORCEMENT OVERHAUL */
+	
+	ContextMenu_VisorUp= "Visor arriba",
+	ContextMenu_VisorDown = "Visor abajo",
+	ContextMenu_RollUp= "Arremangar",
+	ContextMenu_RollDown = "Desarremangar",
+	ContextMenu_TuckIn = "Enrollar",
+	ContextMenu_TuckOut = "Desenrollar",
+	ContextMenu_RightLeg = "Pierna derecha",
+	ContextMenu_LeftLeg = "Pierna izquierda",
+	
+	/* TSAR COMMON LIBRARY */
+	
+	ContextMenu_TCConvertAppliance = "Hacer %1",
+    ContextMenu_AirCondOn = "Control de calefactor",
+    ContextMenu_AirCondOff = "Control de calefactor",
+    ContextMenu_Sleep_Mattress = "Dormir en el colchón",
+    ContextMenu_PainNoSleep_Mattress = "Tienes demasiado dolor para dormir en el colchón",
+	ContextMenu_PanicNoSleep_Mattress = "Tienes demasiado pánico para dormir en el colchón",
+    ContextMenu_NoSleepTooEarly_Mattress = "No puedes volver a dormir en el colchón.<br>Vuelve a intentarlo más tarde",
+	ContextMenu_Add_Gasoline_To_Gasoline_Storage_Tank = "Verter gasolina en el depósito",
+	ContextMenu_Remove_Gasoline_From_Gasoline_Storage_Tank = "Coger gasolina del depósito",
+	ContextMenu_Fill_Gasoline_Storage_Tank_From_Pump = "Llenar el depósito de gasolina desde la bomba",
+	ContextMenu_Fill_Gasoline_Storage_Tank_From_Fuel_Truck = "Llenar el depósito de gasolina desde el camión cisterna",
+	ContextMenu_Remove_Gasoline_From_Fuel_Truck = "Repostar desde el depósito",
+	ContextMenu_For_get_Gasoline_Need_Gas_Can = "Necesito un bidón de gasolina",
+    ContextMenu_CloseTent = "Cerrar tienda",
+    ContextMenu_OpenTent = "Abrir tienda",
+    ContextMenu_Vehicle_For_Smashwindow_Uninstall_Protection = "Para romper la ventana,<br>remover la protección",
+	
+	/* Aquatsar Yacht Club */
+	ContextMenu_BoatAddGas = "Añadir combustible",
+    ContextMenu_BoatCabinelightsOff = "Apagar las luces",
+    ContextMenu_BoatCabinelightsOn = "Encender las luces",
+    ContextMenu_BoatHeadlightsOff = "Apagar los focos",
+    ContextMenu_BoatHeadlightsOn = "Encender los focos",
+    ContextMenu_BoatHotwireSkill = "Necesitas las llaves o<br>Electrónica Nvl 1 y<br>Mecánica Nvl 2<br>para hacer un puente",
+    ContextMenu_RemoveSail = "Remover velas", 
+    ContextMenu_SetLeftSail = "Poner vela<br>al lado izquierdo",
+    ContextMenu_SetRightSail = "Poner vela<br>al lado derecho",
+    ContextMenu_SwimToLand = "Nadar a tierra",
+    ContextMenu_LaunchBoat = "Lanzar barco",
+    ContextMenu_CantLaunchBoat = "Es necesario conducir<br>el remolque hasta el agua",
+    ContextMenu_LoadBoatOntoTrailer = "Cargar barco en remolque",
+    ContextMenu_CantLoadBoatOntoTrailer = "El barco y el remolque<br>tienen que estar cerca",
+    ContextMenu_CantLoadBoatOntoTrailerMan = "No debería haber nadie<br>en el barco",
+    ContextMenu_VehicleStartEngineManual = "Encender el motor manualmente",
+    ContextMenu_VehicleManualStarterDamage = "Arrancador de retroceso no instalado<br>o dañado",
+    ContextMenu_set_anchor_on = "Lanzar ancla",
+    ContextMenu_set_anchor_off = "Subir ancla",
+    ContextMenu_bind_boat = "Atar barco",
+    ContextMenu_unbind_boat = "Desatar barco",
+    ContextMenu_Wooden_Pantone = "Muelle de madera",
+    ContextMenu_Open_Cabin = "Desbloquear cabina",
+    ContextMenu_Open_Cabin_Force = "Desbloquear cabina<br>(con %1)",
+    ContextMenu_Open_Cabin_Force_Need_Crowbar = "Desbloquear cabina<br>(necesitas alguna herramienta o llave)"
+    ContextMenu_Close_Cabin = "Cerrar cabina",
+    ContextMenu_cabinForceUnlock_tooTired = "Estoy muy cansado<br>para abrir la cabina",
+    ContextMenu_cabinForceUnlock_tooBored = "No quiero<br>hacer esto ahora",
+    ContextMenu_cabinForceUnlock_tooUnhappy = "Estoy de ánimos<br>para hacer esto",
+	
+	/* Autotsar Tuning Atelier - Bus */
+	ContextMenu_Vehicle_EGNH = "Escribir «EGNH»",
+	
+	/* Autotsar Trailers */
+	ContextMenu_Close_trunk = "Cerrar maletero",
+    ContextMenu_Open_trunk = "Abrir maletero",
+    ContextMenu_TrailerSpotlightOn = "Encender los focos",
+    ContextMenu_TrailerSpotlightOff = "Apagar los focos",
+    ContextMenu_Turn_On_Generator = "Encender generador",
+	
+	/* True Actions */
+	ContextMenu_Sit = "Sentarse",
+    ContextMenu_Lie = "Recostarse",
+    ContextMenu_OnSleep = "Acostarse",
+	
+	/* True Music */
+	ContextMenu_Stop_music = "Detener música",
+    ContextMenu_Play_music = "Reproducir música",
+    ContextMenu_Sound_carrier_not_install = "Portador de sonido no instalado",
+    ContextMenu_Song = "Canción",
+	
+	/* ZuperCart */
+	ContextMenu_GrabTrolley = "Coger carrito",
+	
+}

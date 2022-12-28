@@ -1,0 +1,5 @@
+ContextMenu_EN = {
+    ContextMenu_WDYPIH_Container = "Container",
+    ContextMenu_WDYPIH_Rename = "Rename",
+    ContextMenu_WDYPIH_Inspect = "Inspect",
+}

@@ -1,0 +1,6 @@
+IGUI_CH = {
+    IGUI_SearchMode_Categories_FishBait = "魚餌",
+    IGUI_SearchMode_Categories_ForestRarities = "森林稀有物",
+    IGUI_SearchMode_Categories_WildHerbs = "野生藥草",
+    IGUI_SearchMode_Categories_WildPlants = "野生植物",
+}
